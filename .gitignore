@@ -1,0 +1,17 @@
+j3.iml
+
+.idea:
+codeStyles
+compiler.xml
+libraries
+misc.xml
+modules.xml
+sbt.xml
+uiDesigner.xml
+workspace.xml
+
+target:
+classes
+generated-sources
+generated-test-sources
+test-classes
